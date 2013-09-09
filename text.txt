@@ -1,0 +1,6 @@
+välkommen till svrigetestet!
+
+Det här är spelet där du får lära dig Sveriges geografi genom att hitta vart 
+Sveriges landsap och största städer ligger på kartan. Du kan öva hur mycket du
+vill genom att klicka på "Övningar" eller göra testet och försöka komma in på 
+toplistan genom att klicka på "Test". 
